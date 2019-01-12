@@ -1,2 +1,3 @@
 # My-Cover-Letter
 My cover letter which will hopefully get my foot in the door to an exciting career as a Blockchain Developer.
+Hi, I'm Matthew Lachance, I just recently grew a fascination for learning computer programming, and I know I chose the wrong area of study when I was in my University years. I am trying to make it work by learning coding this late in my life, so if anyone is willing to take me under their wings, and can have the patience to teach me, I promise I will make it worth your while. My background work history proves I can stay with a company, whether it be office or labour work. Hire me, I'll prove to be a great asset to you.
